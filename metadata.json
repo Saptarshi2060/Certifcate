@@ -1,0 +1,6 @@
+{
+  "name": "Marriage Certificate Generator",
+  "description": "Create a beautiful, vintage-style marriage certificate with coffee-shop aesthetics, interactive Polaroid uploads, and a pen-writing animation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
