@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    // Base path configured for GitHub Pages deployment
     base: '/Certifcate/',
     plugins: [react(), tailwindcss()],
     resolve: {
